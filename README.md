@@ -1,7 +1,7 @@
 # BasicSnakeGameJS
 A classic game, snake, in javascript. 
 
-Written using canvas 2d and vanilla js, making this recreated a
+Written using the canvas API and vanilla js, making this recreated a
                 small piece of my childhood.<br /><br />
                 Snake was always dear to me because of it's ubiquity, no matter
                 who's flip phone you were on, it had snake. <br /><br />
